@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>fed01k</title>
-    <link>http://localhost:1313/</link>
+    <link>https://fedoik.github.io/blog/</link>
     <description>Recent content on fed01k</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Mar 2025 07:07:07 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fedoik.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example research</title>
-      <link>http://localhost:1313/posts/main/</link>
+      <link>https://fedoik.github.io/blog/posts/main/</link>
       <pubDate>Fri, 21 Mar 2025 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/main/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <guid>https://fedoik.github.io/blog/posts/main/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Test&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://fedoik.github.io/blog/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;laskdjf&lt;/p&gt;</description>
+      <guid>https://fedoik.github.io/blog/about/</guid>
+      <description>&lt;p&gt;whoamin&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://fedoik.github.io/blog/images/1.jpeg&#34; alt=&#34;meme&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
