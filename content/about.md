@@ -1,3 +1,3 @@
 whoamin
 
-![meme](/images/1.jpeg)
+![meme](/blog/images/1.jpeg)
