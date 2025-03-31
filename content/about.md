@@ -1,7 +1,7 @@
 ---
 title: Whoami
 description: Some useless information)
-date: 2025-31-21T07:07:07+01:00
+date: 2025-03-31T23:40:00+01:00
 tldr: 
 draft: false
 tags: 
