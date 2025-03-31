@@ -15,12 +15,5 @@
       <guid>https://fedoik.github.io/blog/posts/main/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Test&lt;/p&gt;</description>
     </item>
-    <item>
-      <title></title>
-      <link>https://fedoik.github.io/blog/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fedoik.github.io/blog/about/</guid>
-      <description>&lt;p&gt;whoamin&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://fedoik.github.io/blog/images/1.jpeg&#34; alt=&#34;meme&#34;&gt;&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>

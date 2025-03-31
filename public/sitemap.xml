@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fedoik.github.io/blog/posts/main/</loc>
-    <lastmod>2025-03-21T07:07:07+01:00</lastmod>
-  </url><url>
     <loc>https://fedoik.github.io/blog/</loc>
+    <lastmod>2025-03-31T23:40:00+01:00</lastmod>
+  </url><url>
+    <loc>https://fedoik.github.io/blog/posts/main/</loc>
     <lastmod>2025-03-21T07:07:07+01:00</lastmod>
   </url><url>
     <loc>https://fedoik.github.io/blog/posts/</loc>
@@ -16,8 +16,6 @@
   </url><url>
     <loc>https://fedoik.github.io/blog/tags/web/</loc>
     <lastmod>2025-03-21T07:07:07+01:00</lastmod>
-  </url><url>
-    <loc>https://fedoik.github.io/blog/about/</loc>
   </url><url>
     <loc>https://fedoik.github.io/blog/categories/</loc>
   </url>
