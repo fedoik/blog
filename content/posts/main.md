@@ -1,7 +1,7 @@
 ---
 title: Remote Debugging for Vulnerability Research (Part 1. Go lang)
 description: Research about go lang go debugging
-date: 2026-03-03T07:07:07+01:00
+date: 2026-03-03T00:00:00+01:00
 tldr: 
 draft: false
 tags: [web]
