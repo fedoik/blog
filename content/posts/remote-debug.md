@@ -19,18 +19,6 @@ toc: true
 
 Я планирую сделать серию статей и показать процесс для разных языков, как компилируемых так и для интерпретируемых. Сегодня начнем с go-шки на примере достаточно большого проекта - [gitea](https://github.com/go-gitea/gitea)
 
-## Table of Contents
-- [[#Initial deployment]]
--  [[#Remote Debugging Configuration]]
-	- [[#1. Correct build of the binary]]
-	- [[#2. Delve debugger]]
-	- [[#3. Debug docker file]]
-		- [[#Build stage]]
-		- [[#Deploy stage]]
-		- [[#Docker compose]]
-	- [[#4. VScode attach]]
-- [[#Test time]]
-
 ## Initial deployment
 
 Начнем с изучения документации по способам деплоя gitea. Быстро находим простейший вариант для [деплоя при помощи Docker](https://docs.gitea.com/installation/install-with-docker). Отлично! Можем забрать уже созданный docker-compose файлик и быстренько поднять сервис, как базу будем использовать postgres.
@@ -366,6 +354,6 @@ git checkout v1.24.5
 
 Отлично! Все готово. Теперь нам остается просто запустить docker-compose.yaml, прицепиться к процессу и проверить, что все работает.
 
-![[demo.gif]]
+![](/demo.gif)
 
 Ну что, всем спасибо! На этом первую часть я думаю закончим, буду очень признателен фитбеку (можно оставить в [телеге](https://t.me/hx0110)). Как уже писал выше, план - сделать цикл статей по удаленной отладке в целом для разных языков и может по каким-то особеностям именно для Vulnerability Research-а. Еще раз все спасибо!)
