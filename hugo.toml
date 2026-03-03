@@ -25,7 +25,6 @@ pagerSize = "6"
 	# subtitle = ""
 	mathjax = true # enable MathJax support
 	katex = true # enable KaTeX support
-	customcss = ["css/custom.css"]
 	
 
 # Social Tags
