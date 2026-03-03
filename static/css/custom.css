@@ -1,0 +1,9 @@
+/* Сделать страницу шире */
+.container, .wrapper, .main {
+  max-width: 1100px; /* попробуй 1100–1400 */
+}
+
+/* Сделать сам текст шире */
+.post, .post-content, article {
+  max-width: 900px;  /* попробуй 900–1100 */
+}
