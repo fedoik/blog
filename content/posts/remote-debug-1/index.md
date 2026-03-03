@@ -1,7 +1,7 @@
 ---
 title: Remote Debugging for Vulnerability Research (Part 1. Go lang)
 description: Debugging is an important part of the vulnerability research process
-date: 2025-03-01T00:00:00+01:00
+date: 2026-03-03T00:00:00+01:00
 tldr: 
 draft: false
 tags: [web, vulnerability research, debugging]
