@@ -1,6 +1,6 @@
 ---
-title: Remote Debugging for Vulnerability Research (Part 1. Go lang)1
-description: Research about go lang go debugging1
+title: Remote Debugging for Vulnerability Research (Part 1. Go lang)
+description: Debugging is an important part of the vulnerability research process
 date: 2025-03-01T00:00:00+01:00
 tldr: 
 draft: false
@@ -12,6 +12,8 @@ toc: false
 
 > [!To be calm]
 > Тема, конечно, далеко не новая. Разработчики, OSWE-ребята и просто white-box-энтузиасты — не ругайтесь: да, многие из вас делают это годами. Но тем не менее, иногда полезно взглянуть на привычные вещи под другим углом и собрать в одном месте то, что обычно раскидано по заметкам и личному опыту.
+
+{{< callout emoji="⚡️" text="Original callout." >}}
 
 В этом цикле статей я постараюсь раскрыть, как использовать удалённый дебаггинг именно в контексте vuln research-а: какие инструменты подходят для разных окружений, что важно учитывать и как сделать этот процесс максимально удобным и эффективным.
 
